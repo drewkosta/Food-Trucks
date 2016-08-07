@@ -1,2 +1,5 @@
 #API keys
 env.js
+
+#pkgs
+node_modules
